@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devparikh0506&label=Profile%20views&color=0e75b6&style=flat" alt="devparikh0506" /> </p>
 
-- 🌱 I’m currently learning **Data engineering, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, AI & Data engineering**
 
 - 💬 Ask me about **Supervised learning, Neural networks, React , NodeJS , Django**
 
