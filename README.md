@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, AI & Data engineering**
 
-- 💬 Ask me about **Supervised learning, Neural networks, React , NodeJS , Django**
+- 💬 Ask me about **Supervised learning, Neural networks, React, Node.js, Django**
 
 - 📫 How to reach me **dev.dpparikh@gmail.com**
 
