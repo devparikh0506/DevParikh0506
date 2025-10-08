@@ -1,11 +1,66 @@
 ![](https://komarev.com/ghpvc/?username=devparikh0506&label=Profile%20views&color=0e75b6&style=flat)
 # 👋 Hi, I'm Dev Parikh!
 
-I’m a Machine Learning and Software Engineer passionate about building AI-powered systems that bridge research and real-world impact. With hands-on experience across industry and academia, I specialize in deep learning, NLP, and brain-computer interface technologies. I’ve worked extensively with frameworks like PyTorch and TensorFlow, and I leverage AWS to design scalable, efficient solutions. My work spans from deploying production-grade ML pipelines to co-authoring peer-reviewed research in affective computing—always with a focus on real-time, data-driven innovation.
+**Machine Learning Software Engineer | GenAI Developer | AI Researcher**
 
+I'm a Machine Learning Software Engineer with **4+ years of experience** delivering production-grade ML systems, GenAI applications, and cloud-native solutions. I specialize in **GenAI (LLMs, RAG, LangChain)**, **deep learning (PyTorch, TensorFlow)**, **robotics & BCI** (Kinova Gen3, EEG motor imagery), and **full-stack development** (React, Next.js, Node.js). 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devparikh0506) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.dpparikh@gmail.com) 
+My work spans building CNN-based robotic control systems achieving 70% accuracy and co-authoring peer-reviewed research in **IEEE Access 2025** on multimodal emotion detection (98% accuracy). I leverage **AWS (SageMaker, Bedrock, Lambda)**, **MLOps (Docker, CI/CD)**, and **big data tools (PySpark, Hadoop)** to design scalable, real-time AI solutions that bridge research and real-world impact.
+
+---
+
+## 🌐 Socials & Links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devparikh0506) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.dpparikh@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FJ8Uu4NPTxvwX5I_-b2nZ-yh5RJevJ_o/view) 
+
+---
+
+## 🎓 Education
+
+**Master of Science in Data Science** | University of Maryland, Baltimore County (UMBC)  
+*Jan 2024 – Dec 2025 | GPA: 3.75/4.00*  
+Coursework: Machine Learning, Deep Learning, NLP, Data Engineering
+
+**Bachelor of Engineering in Computer Engineering** | Gujarat Technological University  
+*Jun 2019 – May 2023 | GPA: 3.5/4.00*  
+Coursework: Data Structures & Algorithms, Database Systems, OOP, Web Development
+
+---
+
+## 📚 Publications
+
+**Deep Fusion of Neurophysiological and Facial Features for Enhanced Emotion Detection**  
+*Safavi F., Parikh D. et al. | IEEE Access, vol. 13, pp. 67434–67445, 2025*  
+[DOI: 10.1109/ACCESS.2025.3555934](https://doi.org/10.1109/ACCESS.2025.3555934)  
+Developed multimodal transformer integrating EEG and facial data, achieving near state-of-the-art accuracy.
+
+---
+
+## 🚀 Featured Projects
+
+### **Motor Imagery Robotic Control**
+CNN-based EEG classification for **Kinova Gen3 robotic arm** control with **70% accuracy**. Built PyTorch (CUDA) models with REST API integration, simulated in **Isaac Sim** for real-time control pipelines.
+
+### **EEG Emotion Detection**
+Deep-RNN model detecting emotions from DEAP EEG signals with **~62% accuracy**. Applications in human-computer interaction and affective computing.  
+🔗 [GitHub](https://github.com/devparikh0506/EEG_Emotion_Detection)
+
+### **Cancer Detection using CNN**
+CNN model for histopathology image classification using transfer learning. Demonstrates AI-assisted medical diagnosis potential.  
+🔗 [GitHub](https://github.com/devparikh0506/DATA_690_Deep_Learning/blob/main/project_2/cancer_detection_using_cnn.ipynb)
+
+### **Real-Time Face Detection**
+Face detection system using OpenCV Haar Cascades with live webcam feed processing. Optimized for low-latency detection.  
+🔗 [GitHub](https://github.com/devparikh0506/face-detection)
+
+### **Soccer Player Valuation**
+ML model predicting transfer values using ensemble and neural networks. Reduced forecast error by 37.4% with 99.95% accuracy.  
+🔗 [GitHub](https://github.com/devparikh0506/soccer_master)
+
+### **UAS Risk Analysis**
+Big data risk profiling for unmanned aerial systems using PySpark, AWS Glue, and Hadoop. Analyzed 100+ GB of FAA data with 95% accuracy.  
+🔗 [GitHub](https://github.com/devparikh0506/uas-risk-analysis)
+
+---
 
 # 🚀 Tech Stack
 
@@ -16,6 +71,14 @@ I’m a Machine Learning and Software Engineer passionate about building AI-powe
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
+
+#### 🤖 GenAI & LLMs
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-%23000000.svg?style=plastic&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23121212.svg?style=plastic&logo=chainlink&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-%234285F4.svg?style=plastic)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=plastic&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=plastic&logo=huggingface&logoColor=white)
 
 #### 🧠 Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
@@ -42,19 +105,45 @@ I’m a Machine Learning and Software Engineer passionate about building AI-powe
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
+#### 🤖 Robotics & BCI
+![Kinova Gen3](https://img.shields.io/badge/Kinova%20Gen3-%23FF6B6B.svg?style=plastic&logo=robot&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-%2376B900.svg?style=plastic&logo=nvidia&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white)
+![EEG & BCI](https://img.shields.io/badge/EEG%20%26%20BCI-%23FF1493.svg?style=plastic&logo=brain&logoColor=white)
+
 #### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=plastic&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
 
+---
+
+## 🏆 Certifications & Achievements
+
+- **Software Engineer Certification** - HackerRank
+- **Building Real-Time Video AI Applications** - NVIDIA
+- **AWS Educate Machine Learning Foundations** - AWS
+
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devparikh0506&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+## 📈 Contribution Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=devparikh0506&theme=react-dark&hide_border=true)
+
+## 📊 Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devparikh0506&theme=github_dark)
+
+## 📊 Detailed Stats
+![](https://github-readme-stats.vercel.app/api?username=devparikh0506&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devparikh0506&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devparikh0506&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devparikh0506&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devparikh0506&theme=dark&no-frame=true&no-bg=false&margin-w=4)
