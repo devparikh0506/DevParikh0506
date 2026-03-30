@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=devparikh0506&label=Profile%20views&color=0e75b6&style=flat)
 # 👋 Hi, I'm Dev Parikh!
 
-** Software Engineer | GenAI Developer | AI Researcher**
+**Software Engineer | GenAI Developer | AI Researcher**
 
 I'm a Software Engineer with **4+ years of experience** delivering production-grade ML systems, GenAI applications, and cloud-native solutions. I specialize in **GenAI (LLMs, RAG, LangChain)**, **deep learning (PyTorch, TensorFlow)**, **robotics & BCI** (Kinova Gen3, EEG motor imagery), and **full-stack development** (React, Next.js, Node.js). 
 
