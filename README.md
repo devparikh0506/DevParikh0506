@@ -138,14 +138,5 @@ Big data risk profiling for unmanned aerial systems using PySpark, AWS Glue, and
 ## 📊 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devparikh0506&theme=github_dark)
 
-## 📊 Detailed Stats
-![](https://github-readme-stats.vercel.app/api?username=devparikh0506&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devparikh0506&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devparikh0506&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devparikh0506&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
