@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=devparikh0506&label=Profile%20views&color=0e75b6&style=flat)
 # 👋 Hi, I'm Dev Parikh!
 
-**Machine Learning Software Engineer | GenAI Developer | AI Researcher**
+** Software Engineer | GenAI Developer | AI Researcher**
 
-I'm a Machine Learning Software Engineer with **4+ years of experience** delivering production-grade ML systems, GenAI applications, and cloud-native solutions. I specialize in **GenAI (LLMs, RAG, LangChain)**, **deep learning (PyTorch, TensorFlow)**, **robotics & BCI** (Kinova Gen3, EEG motor imagery), and **full-stack development** (React, Next.js, Node.js). 
+I'm a Software Engineer with **4+ years of experience** delivering production-grade ML systems, GenAI applications, and cloud-native solutions. I specialize in **GenAI (LLMs, RAG, LangChain)**, **deep learning (PyTorch, TensorFlow)**, **robotics & BCI** (Kinova Gen3, EEG motor imagery), and **full-stack development** (React, Next.js, Node.js). 
 
 My work spans building CNN-based robotic control systems achieving 70% accuracy and co-authoring peer-reviewed research in **IEEE Access 2025** on multimodal emotion detection (98% accuracy). I leverage **AWS (SageMaker, Bedrock, Lambda)**, **MLOps (Docker, CI/CD)**, and **big data tools (PySpark, Hadoop)** to design scalable, real-time AI solutions that bridge research and real-world impact.
 
