@@ -10,7 +10,7 @@ My work spans building CNN-based robotic control systems achieving 70% accuracy 
 ---
 
 ## 🌐 Socials & Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devparikh0506) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.dpparikh@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FJ8Uu4NPTxvwX5I_-b2nZ-yh5RJevJ_o/view) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devparikh0506) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.dpparikh@gmail.com) [![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aWuXcgx34O5LUPahXpu6ulerabAdsIO-/view?usp=sharing) 
 
 ---
 
